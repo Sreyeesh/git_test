@@ -1,0 +1,3 @@
+I'm getting started on front end journey . I'm going to learn HTML, CSS, and Javascript. I will also learn Ruby for fun. 
+
+I will also learn back end tools , and keep praticing python. 
